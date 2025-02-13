@@ -1,4 +1,4 @@
-# jidloprahakolin
+Jídlo Praha, Kolín a okolí!
 <!DOCTYPE html>
 <html lang="cs">
 <head>
